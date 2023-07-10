@@ -1,4 +1,6 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/63505124/136289801-1d609d46-2986-4908-9476-bb29e0f0aab1.png" width="600"></p>
+<p align="center"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--_i4LYB4J--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qbsciyoo1m5174v5zcxz.png" width=""></p>
+
+# Netflix | Movie Recommendation System
 
 ## Introduction
 
