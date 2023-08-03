@@ -16,6 +16,7 @@ The project consists of a website similar to Netflix, with a homepage, a movie p
 
 The homepage shows a header movie and some information about it. The header movie isn’t hardcoded, but rather it’s chosen at every page load by a random function, and then it changes every time the page is reloaded.
 Similarly, the 20 categories available are randomly ordered and in every category carousel, there are 10 randomly selected movies (belonging to the specific category).
+<br>
 <i>Yep, I quite like random functions :-)</i>
 
 ![Netflix homepage](https://user-images.githubusercontent.com/63505124/136290134-2abcbdad-5fd3-4cad-ba7d-716bd85ae1c9.png)
