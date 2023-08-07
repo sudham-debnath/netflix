@@ -18,7 +18,6 @@ The homepage shows a header movie and some information about it. The header movi
 Similarly, the 20 categories available are randomly ordered and in every category carousel, there are 10 randomly selected movies (belonging to the specific category).
 <br>
 <br>
-<br>
 <i>Yep, I quite like random functions :-)</i>
 
 ![Netflix homepage](https://user-images.githubusercontent.com/63505124/136290134-2abcbdad-5fd3-4cad-ba7d-716bd85ae1c9.png)
