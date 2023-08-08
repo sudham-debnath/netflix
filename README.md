@@ -4,11 +4,11 @@
 
 ## Introduction :
 
-I started working on this project in my free time during a three months full-stack web development coding bootcamp because I wanted to challenge myself on a complex back-end project with a real-world and large dataset. Since I’m fascinated by recommender systems (and A.I. in general), I chose to simulate their behaviour with the tools I have “here and now”: PHP and relational databases.
+- I started working on this project in my free time during a three months full-stack web development coding bootcamp because I wanted to challenge myself on a complex back-end project with a real-world and large dataset. Since I’m fascinated by recommender systems (and A.I. in general), I chose to simulate their behaviour with the tools I have “here and now”: PHP and relational databases.
 
-NB: In the future, I’m willing to build a real recommender system with appropriate technologies like Python and machine learning, but for the sake of practice I had to start somewhere.
+- NB: In the future, I’m willing to build a real recommender system with appropriate technologies like Python and machine learning, but for the sake of practice I had to start somewhere.
 
-Fun fact: this is the second time I try to implement this idea. The first one was for the Computer Organization and Design exam, for which I had to deliver an individual project using only logic gates in Logisim (that project got me a 30+/30 grade).
+- Fun fact: this is the second time I try to implement this idea. The first one was for the Computer Organization and Design exam, for which I had to deliver an individual project using only logic gates in Logisim (that project got me a 30+/30 grade).
 
 ## Overview :
 
@@ -29,7 +29,5 @@ The “similar movies” are the output of the content-based recommender functio
 On the other side, “other users also liked” movies are the output of the collaborative recommender function, which first finds users who really liked the selected movie (those who rated it 5/5) and then calculates the 10 movies most well rated by them on average. 
 
 ![Netflix movie page](https://user-images.githubusercontent.com/63505124/136290222-4087f1a1-8649-42d6-871a-3713b7303e08.png)
-
-
 
 <i>[ FULL DOCUMENTATION TEMPORARY AVAILABLE HERE: https://www.linkedin.com/pulse/how-i-built-movie-recommender-from-scratch-laravel-after-malune/ ]</i>
