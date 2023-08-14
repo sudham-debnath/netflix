@@ -1,7 +1,8 @@
 <p align="center"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--_i4LYB4J--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qbsciyoo1m5174v5zcxz.png" width=""></p>
 
-# Netflix | Movie Recommendation System with Python 
-## Machine Learning
+# Netflix | Movie Recommendation System with Python
+
+## Machine Learning Project with Python
 
 ## Introduction :
 
