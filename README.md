@@ -2,7 +2,7 @@
 
 # Netflix | Movie Recommendation System with Python
 
-## Movie Recommendation System Machine Learning Project with Python
+## Movie Recommendation System Machine Learning Project with Python.
 
 ## Introduction :
 
