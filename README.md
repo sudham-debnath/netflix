@@ -26,7 +26,7 @@ Similarly, the 20 categories available are randomly ordered and in every categor
 
 - Clicking a movie opens a page with movie details and two movie recommendation sections: “similar movies” and “other users also liked”. Every section contains the top 10 recommendations and has a “load more” button that shows 2 more movies at a time.
 
-- The “similar movies” are the output of the content-based recommender function, that combines a few queries and calculations to find what movies have more common features with the one selected by the user (genres, original language, keywords, production companies, production countries).
+- The “Similar movies” are the output of the content-based recommender function, that combines a few queries and calculations to find what movies have more common features with the one selected by the user (genres, original language, keywords, production companies, production countries).
 
 - On the other side, “other users also liked” movies are the output of the collaborative recommender function, which first finds users who really liked the selected movie (those who rated it 5/5) and then calculates the 10 movies most well rated by them on average. 
 
