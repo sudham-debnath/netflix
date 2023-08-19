@@ -10,7 +10,7 @@
 
 - NB: In the future, I’m willing to build a real recommender system with appropriate technologies like Python and machine learning, but for the sake of practice I had to start somewhere.
 
-- Fun fact: this is the second time I try to implement this idea. The first one was for the Computer Organization and Design exam, for which I had to deliver an individual project using only logic gates in Logisim (that project got me a 30+/30 grade).
+- Fun Fact: this is the second time I try to implement this idea. The first one was for the Computer Organization and Design exam, for which I had to deliver an individual project using only logic gates in Logisim (that project got me a 30+/30 grade).
 
 ## Overview :
 
