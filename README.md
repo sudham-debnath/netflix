@@ -20,7 +20,7 @@
 Similarly, the 20 categories available are randomly ordered and in every category carousel, there are 10 randomly selected movies (belonging to the specific category).
 
 <br>
-<i>Yep, I quite like random functions on this:-</i>
+<i> Yep, I quite like random functions on this:- </i>
 
 ![Netflix homepage](https://user-images.githubusercontent.com/63505124/136290134-2abcbdad-5fd3-4cad-ba7d-716bd85ae1c9.png)
 
