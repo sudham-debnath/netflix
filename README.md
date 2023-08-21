@@ -4,7 +4,7 @@
 
 ## Movie Recommendation System Machine Learning Project with Python.
 
-## Introduction :
+## Introduction : -
 
 - I started working on this project in my free time during a three months full-stack web development coding bootcamp because I wanted to challenge myself on a complex back-end project with a real-world and large dataset. Since I’m fascinated by recommender systems (and A.I. in general), I chose to simulate their behaviour with the tools I have “here and now”: PHP and relational databases.
 
