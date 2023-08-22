@@ -4,7 +4,7 @@
 
 ## Movie Recommendation System Machine Learning Project with Python.
 
-## Introduction : -
+## Introduction :-
 
 - I started working on this project in my free time during a three months full-stack web development coding bootcamp because I wanted to challenge myself on a complex back-end project with a real-world and large dataset. Since I’m fascinated by recommender systems (and A.I. in general), I chose to simulate their behaviour with the tools I have “here and now”: PHP and relational databases.
 
@@ -12,7 +12,7 @@
 
 - Fun Fact: this is the second time I try to implement this idea. The first one was for the Computer Organization and Design exam, for which I had to deliver an individual project using only logic gates in Logisim (that project got me a 30+/30 grade).
 
-## Overview :
+## Overview :-
 
 - The project consists of a website similar to Netflix, with a homepage, a movie page and movie recommendations (both collaborative and content-based). All 45k movies available are real and they belong to this Kaggle dataset, which includes movie titles, descriptions, release dates, posters, backdrops, genres, languages, tags, production companies, production countries, user ratings, credits (cast and crew) and more.
 
