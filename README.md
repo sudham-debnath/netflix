@@ -6,11 +6,11 @@
 
 ## Introduction :-
 
-- I started working on this project in my free time during a three months full-stack web development coding bootcamp because I wanted to challenge myself on a complex back-end project with a real-world and large dataset. Since I’m fascinated by recommender systems (and A.I. in general), I chose to simulate their behaviour with the tools I have “here and now”: PHP and relational databases.
+- I started working on this project in my free time during a three-month full-stack web development coding bootcamp because I wanted to challenge myself on a complex back-end project with a real-world and large dataset. Since I’m fascinated by recommender systems (and A.I. in general), I chose to simulate their behaviour with the tools I have “here and now”: PHP and relational databases.
 
 - NB: In the future, I’m willing to build a real recommender system with appropriate technologies like Python and machine learning, but for the sake of practice I had to start somewhere.
 
-- Fun Fact: this is the second time I try to implement this idea. The first one was for the Computer Organization and Design exam, for which I had to deliver an individual project using only logic gates in Logisim (that project got me a 30+/30 grade).
+- Fun Fact: This is the second time I have tried to implement this idea. The first one was for the Computer Organization and Design exam, for which I had to deliver an individual project using only logic gates in Logisim (that project got me a 30+/30 grade).
 
 ## Overview :-
 
